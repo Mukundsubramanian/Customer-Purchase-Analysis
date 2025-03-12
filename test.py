@@ -5,6 +5,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
+import streamlit as st
 
 # Mount Google Drive
 from google.colab import drive
