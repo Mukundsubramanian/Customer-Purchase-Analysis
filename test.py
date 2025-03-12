@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 import streamlit as st
-!pip install streamlit scikit-learn
 # Mount Google Drive
 from google.colab import drive
 drive.mount('/content/drive')
