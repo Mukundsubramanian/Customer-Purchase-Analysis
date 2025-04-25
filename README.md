@@ -70,7 +70,7 @@ Include product category analysis
 Add seasonal trend analysis
 Develop predictive models for customer behavior
 
-Visuals from the Analytics
+**Visuals from the Analytics**
  
 
 
