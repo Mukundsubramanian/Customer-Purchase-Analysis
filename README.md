@@ -70,4 +70,26 @@ Include product category analysis
 Add seasonal trend analysis
 Develop predictive models for customer behavior
 
+Visuals from the Analytics
+ 
+
+
+<img width="1328" alt="Screenshot 2025-04-25 at 12 59 21 PM" src="https://github.com/user-attachments/assets/b1194f61-7b42-44d9-96bb-122ecb062f63" />
+
+
+
+<img width="865" alt="Screenshot 2025-04-25 at 12 59 52 PM" src="https://github.com/user-attachments/assets/4c7878d0-18cf-4466-9977-10532dfafb2b" />
+
+
+<img width="90<img width="1297" alt="Screenshot 2025-04-25 at 1 00 39 PM" src="https://github.com/user-attachments/assets/0be9c180-e31c-4a9a-a96a-9394cce7e600" />
+
+<img width="1297" alt="Screenshot 2025-04-25 at 1 00 39 PM" src="https://github.com/user-attachments/assets/0ef0264b-c699-4656-9bde-54d9f95355be" />
+
+
+
+
+<img width="1193" alt="Screenshot 2025-04-25 at 1 01 00 PM" src="https://github.com/user-attachments/assets/a3a93e76-ce73-4a33-b9ad-8439117df80a" />
+
+
+<img width="1195" alt="Screenshot 2025-04-25 at 1 01 10 PM" src="https://github.com/user-attachments/assets/f1b3f473-a46b-4aec-b4da-957bfc6889a7" />
 
